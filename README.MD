@@ -1,6 +1,6 @@
 # Team 9
 
-
+Live [link](https://team9-summerhackaton.github.io/your-summer-outdoors/) for the website
 
 
 
